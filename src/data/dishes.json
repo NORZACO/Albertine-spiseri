@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Fiskesuppe Masala",
+    "desc": "Traditional Norwegian fish soup infused with light Indian masala spices",
+    "price": "$22"
+  },
+  {
+    "name": "Tandoori Laks",
+    "desc": "Norwegian salmon grilled in a mild tandoori marinade with lemon butter",
+    "price": "$30"
+  },
+  {
+    "name": "Rømmegrøt with Cardamom",
+    "desc": "Creamy Norwegian porridge elevated with toasted cardamom and saffron",
+    "price": "$14"
+  },
+  {
+    "name": "Vindaloo Reindeer",
+    "desc": "Slow-cooked reindeer in spicy Goan vindaloo, balanced with lingonberry",
+    "price": "$36"
+  },
+  {
+    "name": "Kjøttkaker Curry",
+    "desc": "Classic Norwegian meatballs simmered in a rich tomato-onion curry",
+    "price": "$24"
+  },
+  {
+    "name": "Butter Chicken Lefse Roll",
+    "desc": "Soft lefse filled with creamy butter chicken and fresh herbs",
+    "price": "$16"
+  }
+]
